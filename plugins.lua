@@ -1,6 +1,6 @@
 local plugins = {
   { 
-    "nvim-neotest/nvim-nio" 
+    "nvim-neotest/nvim-nio", 
     event = "VeryLazy",
   },
   {
